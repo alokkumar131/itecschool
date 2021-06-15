@@ -1,0 +1,12 @@
+.flask_bootstrap thead{
+    background-color: #21c87a;
+}
+.flask_bootstrap thead th{
+    padding: 0.25rem;
+    color:#fff;
+    border:none;
+    text-align: center;
+}
+.flask_bootstrap tbody td{
+    padding: 0.25rem;
+}
